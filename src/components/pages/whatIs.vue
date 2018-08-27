@@ -51,7 +51,7 @@
         </p> Check out the Bonus Bets tab above for a list of websites currently offering bonus bets!
         
         <figure class="image">
-            <img src="assets/img/logo.png">
+            <img src="../../assets/BonusBet.png">
         </figure>
 
         </blockquote>    
@@ -60,7 +60,9 @@
         <blockquote><p><strong>Step 3:</strong> Find your bet!
         </p> You can use an Oddshttps://www.freebets4all.com/AutoMatcher
 
-    
+        <figure class="image">
+        <img src="../../assets/OddsMatcher.png">
+        </figure>
         </blockquote>      
 
         </div>
