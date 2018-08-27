@@ -49,10 +49,13 @@
 
         <blockquote><p><strong>Step 2:</strong> Sign up to a bookmaker site.
         </p> Check out the Bonus Bets tab above for a list of websites currently offering bonus bets!
+        
         <figure class="image">
-            <img src="">
+            <img src="assets/img/logo.png">
         </figure>
+
         </blockquote>    
+
 
         <blockquote><p><strong>Step 3:</strong> Find your bet!
         </p> You can use an Oddshttps://www.freebets4all.com/AutoMatcher
@@ -71,16 +74,9 @@
 
 <script>
 export default {
-    data () {
-        return {
-            blogs: [
-                {
 
-                }
-            ]
-        }
-    }
 }
+
 </script>
 
 <style lang="css">
