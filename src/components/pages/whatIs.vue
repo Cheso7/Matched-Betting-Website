@@ -3,6 +3,7 @@
   <section class="section">
       <div class="container">
       <div class="box">
+
       <p class="title is-3">A Beginner's Guide to Matched Betting</p>
       <div class="content has-text-left">
 
@@ -24,7 +25,7 @@
          <p>This means whate ever the outcome, one of your bets is going to win. Now the way the odds are setup, you still won't make a profit from doing this with your own money (that would be too easy right?). This technique only works when the bet one of the bets is a <strong>bonus bet</strong>. These are easily obtained by signing up to a bookmaker site and meeting their deposit criteria.
          </p>
          
-         <h6>Check out the Bonus Bets tab above for a list of websites currently offering bonus bets!</h6>  
+         <h6></h6>  
          
          <h2>Terminology</h2>
          <p>Before running through an example let's start with some terminology that will help make everything clear.
@@ -40,13 +41,28 @@
 
         <h2>Example</h2>       
         <p>I will now run you through an example, using the calculator I have built into this website. This calculator ensures you get the same profit from either outcome, and that any turnover requirements are met to make sure you can withdraw your money.</p>
+        
+        <blockquote><p><strong>Step 1:</strong> Sign up to a betting exchange site. 
+        </p>
+    
+        </blockquote>
 
-      </div>
-      
-      <blockquote>Ut venenatis, nisl scelerisque sollicitudin fermentum, quam libero hendrerit ipsum, ut blandit est tellus sit amet turpis.</blockquote>
+        <blockquote><p><strong>Step 2:</strong> Sign up to a bookmaker site.
+        </p> Check out the Bonus Bets tab above for a list of websites currently offering bonus bets!
+        <figure class="image">
+            <img src="">
+        </figure>
+        </blockquote>    
 
+        <blockquote><p><strong>Step 3:</strong> Find your bet!
+        </p> You can use an Oddshttps://www.freebets4all.com/AutoMatcher
 
-    </div>
+    
+        </blockquote>      
+
+        </div>
+        </div>
+        </div>
     </div>
           
   </section>
