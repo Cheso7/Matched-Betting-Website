@@ -2,7 +2,8 @@
     <section >
 
 <!-- Title bar -->        
-    <section class="hero is-info is-medium">
+
+    <section class="hero is-success is-medium">
       <div class="hero-body">
         <div class="container">
           <h1 class="title">Advanced Matching Betting</h1>
@@ -54,7 +55,7 @@
          <footer class="footer">
             <div class="content has-text-centered">
                 <p>
-                    <strong>Matched Betting Pro</strong> by Jarryd Cheso. Copyright 2018.
+                    <strong>Advanced Matched Betting</strong> by JC. For all inquiries mail <a href="advancedmatchedbetting@gmail.com">advancedmatchedbetting@gmail.com</a>
                 </p>
             </div>
         </footer>
@@ -90,10 +91,18 @@ export default {
         addPage(page_name) {
             this.page = page_name
         }
+        
     }
 }
 </script>
 
 <style lang="css">
 
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
 </style>
