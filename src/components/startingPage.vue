@@ -2,8 +2,7 @@
     <section >
 
 <!-- Title bar -->        
-
-    <section class="hero is-success is-medium">
+    <section class="hero is-info is-medium is-bold">
       <div class="hero-body">
         <div class="container">
           <h1 class="title">Advanced Matching Betting</h1>
@@ -55,7 +54,7 @@
          <footer class="footer">
             <div class="content has-text-centered">
                 <p>
-                    <strong>Advanced Matched Betting</strong> by JC. For all inquiries mail <a href="advancedmatchedbetting@gmail.com">advancedmatchedbetting@gmail.com</a>
+                    <strong>Advanced Matched Betting</strong> by jCStudio. For all inquiries mail <a href="advancedmatchedbetting@gmail.com">advancedmatchedbetting@gmail.com</a>
                 </p>
             </div>
         </footer>
@@ -77,9 +76,9 @@ export default {
     },
     data () {
         return {
-            page: 'whatIs',
+            page: 'matchedBetting',
             betting_data: null,
-            activeTab: 1
+            activeTab: 2
         }
     },
     methods: {

@@ -140,7 +140,7 @@
 
       <section>
         <body>
-              <a class="button is-dark" @click="showResults()">Tell me what to bet!</a>
+              <a class="button is-dark" @click="showResults()" >Tell me what to bet!</a>
         </body>
       </section>
       
@@ -177,6 +177,20 @@ export default {
     showResults () {
       this.$emit('output', this.betting_data)
     }, 
+
+    // checkFields(){
+    //   var arrayLength = betting_data.length;
+    //   var fieldsfull = null
+    //   for (var i = 0; i < arrayLength; i++) {
+    //   if (betting_data[i] === null){
+    //   fieldsfull = true
+    //   }
+    //   }
+    //   return fieldsfull
+    //   console.log(this.betting_data)
+    //   console.log(this.fieldsfull)
+    // }
+
   }
 };
 </script>
