@@ -46,8 +46,19 @@
         <blockquote><p><strong>Step 1:</strong> Sign up to a Betting Exchange. 
         </p>
     
+          <iframe 
+            allowtransparency="true" 
+            src="http://ads.betfair.com/ad.aspx?bid=10229&pid=3263524" 
+            width="390" 
+            height="156" 
+            marginwidth="0" 
+            marginheight="0" 
+            hspace="0" 
+            vspace="0" 
+            frameborder="0" 
+            scrolling="no"
+          ></iframe>
         </blockquote>
-
         <blockquote><p><strong>Step 2:</strong> Sign up to a Bookmaker  and claim your Bonus Bet.
         </p> <p><u>Check out the Bonus Bets tab above for a list of websites currently offering Bonus Bets!</u></p>
         <figure class="image">
