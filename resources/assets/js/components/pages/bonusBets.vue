@@ -30,7 +30,10 @@
             </tr>
 
             <tr>
-              <td><strong>Link 2</strong></td>
+              <td>
+                <script type="text/javascript" src="https://js.nedsaffiliates.com.au/javascript.php?prefix=qAEQiXVlKOTulQmTAVK722Nd7ZgqdRLk&amp;media=99&amp;campaign=1"></script>
+ 
+              </td>
             </tr>
 
             <tr>

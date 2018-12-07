@@ -16,10 +16,10 @@
         <nav class="tabs is-centered is-large is-boxed">
             <ul>
                 <li  :class="{'is-active': activeTab === 1}" @click="activeTab = 1">
-                    <a @click="page = 'whatIs'" >What is Matched Betting?</a>
+                    <a @click="page = 'whatIs'" >Guide</a>
                 </li>
                 <li :class="{'is-active': activeTab === 2}" @click="activeTab = 2">
-                    <a @click="page = 'matchedBetting'">Matched Betting Calculator</a>
+                    <a @click="page = 'matchedBetting'">Calculator</a>
                 </li>
                 <li :class="{'is-active': activeTab === 3}" @click="activeTab = 3">
                     <a @click="page = 'bonusBets'">Bonus Bets</a>
