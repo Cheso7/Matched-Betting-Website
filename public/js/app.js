@@ -2267,6 +2267,8 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
@@ -2421,7 +2423,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", ""]);
+exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", ""]);
 
 // exports
 
@@ -34184,22 +34186,21 @@ var staticRenderFns = [
                 _vm._v(" "),
                 _c("figure", { staticClass: "image" }, [
                   _c(
-                    "iframe",
+                    "a",
                     {
                       attrs: {
-                        allowtransparency: "true",
-                        src:
-                          "https://ads.betfair.com/ad.aspx?bid=10172&pid=3263524",
-                        width: "468",
-                        height: "60",
-                        marginwidth: "0",
-                        marginheight: "0",
-                        hspace: "0",
-                        vspace: "0",
-                        frameborder: "0"
+                        href:
+                          "https://ads.betfair.com/redirect.aspx?pid=3263524&bid=8142"
                       }
                     },
-                    [_vm._v("\r\n          >")]
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: __webpack_require__("./resources/assets/js/assets/betfair.png"),
+                          alt: "Betfair Sign Up"
+                        }
+                      })
+                    ]
                   )
                 ])
               ]),
@@ -34589,103 +34590,97 @@ var staticRenderFns = [
     return _c("section", { staticClass: "container" }, [
       _c("br"),
       _vm._v(" "),
-      _c("p", { staticClass: "title is-3 has-text-centered" }, [
-        _vm._v("Bonus Bets")
-      ]),
-      _vm._v(" "),
-      _c(
-        "a",
-        {
-          attrs: {
-            href: "https://ads.betfair.com/ad.aspx?bid=10179&pid=3263524"
-          }
-        },
-        [
-          _c("img", {
-            attrs: {
-              src: __webpack_require__("./resources/assets/js/assets/betfair.png"),
-              alt: "Neds First Bet Match up to $100"
-            }
-          })
-        ]
-      ),
-      _vm._v(" "),
-      _c("iframe", {
-        attrs: {
-          allowtransparency: "true",
-          src: "https://ads.betfair.com/ad.aspx?bid=10179&pid=3263524",
-          width: "100%",
-          height: "100%",
-          marginwidth: "0",
-          marginheight: "0",
-          hspace: "0",
-          vspace: "0",
-          frameborder: "0",
-          scrolling: "no"
-        }
-      }),
-      _vm._v(" "),
-      _c("br"),
-      _vm._v(" "),
-      _c("br"),
-      _vm._v(" "),
-      _c(
-        "a",
-        {
-          attrs: {
-            href:
-              "https://record.nedsaffiliates.com.au/_qAEQiXVlKOTulQmTAVK722Nd7ZgqdRLk/1/"
-          }
-        },
-        [
-          _c("img", {
-            attrs: {
-              src: __webpack_require__("./resources/assets/js/assets/06-28-Affilates-Banners-FBM-729x90.png"),
-              alt: "Neds First Bet Match up to $100"
-            }
-          })
-        ]
-      ),
-      _vm._v(" "),
-      _c("br"),
-      _vm._v(" "),
-      _c(
-        "a",
-        {
-          attrs: {
-            href:
-              "https://record.nedsaffiliates.com.au/_qAEQiXVlKORDp78Ph1_jCGNd7ZgqdRLk/1/"
-          }
-        },
-        [
-          _c("img", {
-            attrs: {
-              src: __webpack_require__("./resources/assets/js/assets/06-28-Affilates-Banners-60-120-729x90.png"),
-              alt: "Neds First Deposit $60 and get $120"
-            }
-          })
-        ]
-      ),
-      _vm._v(" "),
-      _c("br"),
-      _vm._v(" "),
-      _c(
-        "a",
-        {
-          attrs: {
-            href:
-              "https://record.nedsaffiliates.com.au/_qAEQiXVlKOSwVhdeTu4fZWNd7ZgqdRLk/1/"
-          }
-        },
-        [
-          _c("img", {
-            attrs: {
-              src: __webpack_require__("./resources/assets/js/assets/06-28-Affilates-Banners-250-300-729x90.png"),
-              alt: "Neds First Deposit $250 and get $300"
-            }
-          })
-        ]
-      )
+      _c("div", { staticClass: "box" }, [
+        _c("p", { staticClass: "title is-3 has-text-centered" }, [
+          _vm._v("Bonus Bets")
+        ]),
+        _vm._v(" "),
+        _c("figure", { staticClass: "image" }, [
+          _c(
+            "a",
+            {
+              attrs: {
+                href:
+                  "https://ads.betfair.com/redirect.aspx?pid=3263524&bid=8142"
+              }
+            },
+            [
+              _c("img", {
+                attrs: {
+                  src: __webpack_require__("./resources/assets/js/assets/betfair.png"),
+                  alt: "Betfair Sign Up"
+                }
+              })
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("br"),
+        _vm._v(" "),
+        _c("figure", { staticClass: "image" }, [
+          _c(
+            "a",
+            {
+              attrs: {
+                href:
+                  "https://record.nedsaffiliates.com.au/_qAEQiXVlKOTulQmTAVK722Nd7ZgqdRLk/1/"
+              }
+            },
+            [
+              _c("img", {
+                attrs: {
+                  src: __webpack_require__("./resources/assets/js/assets/06-28-Affilates-Banners-FBM-729x90.png"),
+                  alt: "Neds First Bet Match up to $100"
+                }
+              })
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("br"),
+        _vm._v(" "),
+        _c("figure", { staticClass: "image" }, [
+          _c(
+            "a",
+            {
+              attrs: {
+                href:
+                  "https://record.nedsaffiliates.com.au/_qAEQiXVlKORDp78Ph1_jCGNd7ZgqdRLk/1/"
+              }
+            },
+            [
+              _c("img", {
+                attrs: {
+                  src: __webpack_require__("./resources/assets/js/assets/06-28-Affilates-Banners-60-120-729x90.png"),
+                  alt: "Neds First Deposit $60 and get $120"
+                }
+              })
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("br"),
+        _vm._v(" "),
+        _c("figure", { staticClass: "image" }, [
+          _c(
+            "a",
+            {
+              attrs: {
+                href:
+                  "https://record.nedsaffiliates.com.au/_qAEQiXVlKOSwVhdeTu4fZWNd7ZgqdRLk/1/"
+              }
+            },
+            [
+              _c("img", {
+                attrs: {
+                  src: __webpack_require__("./resources/assets/js/assets/06-28-Affilates-Banners-250-300-729x90.png"),
+                  alt: "Neds First Deposit $250 and get $300"
+                }
+              })
+            ]
+          )
+        ])
+      ])
     ])
   }
 ]
