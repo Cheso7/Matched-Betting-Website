@@ -76,9 +76,9 @@ export default {
     },
     data () {
         return {
-            page: 'matchedBetting',
+            page: 'whatIs',
             betting_data: null,
-            activeTab: 2
+            activeTab: 1
         }
     },
     methods: {
