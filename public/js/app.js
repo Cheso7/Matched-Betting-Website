@@ -2352,6 +2352,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
 
 
 
@@ -34421,6 +34422,13 @@ var render = function() {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c("section", [
+    _c("meta", {
+      attrs: {
+        name: "google-site-verification",
+        content: "Yu-MIpKVyptXHEN8zZ0xwv3kRj91x2vLYk7l3Qn8s6Y"
+      }
+    }),
+    _vm._v(" "),
     _c("section", { staticClass: "hero is-danger is-medium is-bold" }, [
       _vm._m(0),
       _vm._v(" "),
