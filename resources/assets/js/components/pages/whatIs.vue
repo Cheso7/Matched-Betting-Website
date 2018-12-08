@@ -54,7 +54,8 @@
           </figure>
 
         </blockquote>
-        <blockquote><p><strong>Step 2:</strong> Sign up to a Bookmaker  and claim your Bonus Bet.
+        <blockquote>
+          <p><strong>Step 2:</strong> Sign up to a Bookmaker  and claim your Bonus Bet.
         </p> <p><u>Check out the Bonus Bets tab above for a list of websites currently offering Bonus Bets!</u></p>
         <figure class="image">
         <a 
