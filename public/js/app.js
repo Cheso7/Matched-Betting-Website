@@ -1917,6 +1917,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     data: function data() {
@@ -34588,20 +34589,16 @@ var staticRenderFns = [
           _vm._v("Bonus Bets")
         ]),
         _vm._v(" "),
-        _c("iframe", {
-          attrs: {
-            allowtransparency: "true",
-            src: "https://ads.betfair.com/ad.aspx?bid=10179&pid=3263524",
-            width: "728",
-            height: "90",
-            marginwidth: "0",
-            marginheight: "0",
-            hspace: "0",
-            vspace: "0",
-            frameborder: "0",
-            scrolling: "no"
-          }
-        }),
+        _c("figure", { staticClass: "box" }, [
+          _c("iframe", {
+            attrs: {
+              allowtransparency: "true",
+              src: "https://ads.betfair.com/ad.aspx?bid=10179&pid=3263524"
+            }
+          })
+        ]),
+        _vm._v(" "),
+        _c("br"),
         _vm._v(" "),
         _c("figure", { staticClass: "image" }, [
           _c(
@@ -34623,6 +34620,8 @@ var staticRenderFns = [
           )
         ]),
         _vm._v(" "),
+        _c("br"),
+        _vm._v(" "),
         _c("figure", { staticClass: "image" }, [
           _c(
             "a",
@@ -34642,6 +34641,8 @@ var staticRenderFns = [
             ]
           )
         ]),
+        _vm._v(" "),
+        _c("br"),
         _vm._v(" "),
         _c("figure", { staticClass: "image" }, [
           _c(
