@@ -1917,25 +1917,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     data: function data() {
@@ -34607,102 +34588,79 @@ var staticRenderFns = [
           _vm._v("Bonus Bets")
         ]),
         _vm._v(" "),
-        _c("table", { staticClass: "table is-fullwidth" }, [
-          _c("thead", [_c("th")]),
-          _vm._v(" "),
-          _c("tbody", { staticClass: "has-text-centered" }, [
-            _c("tr", [
-              _c("td", { attrs: { align: "center" } }, [
-                _c("iframe", {
-                  attrs: {
-                    allowtransparency: "true",
-                    src:
-                      "https://ads.betfair.com/ad.aspx?bid=10179&pid=3263524",
-                    width: "728",
-                    height: "90",
-                    marginwidth: "0",
-                    marginheight: "0",
-                    hspace: "0",
-                    vspace: "0",
-                    frameborder: "0",
-                    scrolling: "no"
-                  }
-                })
-              ])
-            ]),
-            _vm._v(" "),
-            _c("tr", [
-              _c("td", { attrs: { align: "center" } }, [
-                _c("figure", { staticClass: "image" }, [
-                  _c(
-                    "a",
-                    {
-                      attrs: {
-                        href:
-                          "https://record.nedsaffiliates.com.au/_qAEQiXVlKOTulQmTAVK722Nd7ZgqdRLk/1/"
-                      }
-                    },
-                    [
-                      _c("img", {
-                        attrs: {
-                          src: __webpack_require__("./resources/assets/js/assets/06-28-Affilates-Banners-FBM-729x90.png"),
-                          alt: "Neds First Bet Match up to $100"
-                        }
-                      })
-                    ]
-                  )
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("tr", [
-              _c("td", { attrs: { align: "center" } }, [
-                _c("figure", { staticClass: "image" }, [
-                  _c(
-                    "a",
-                    {
-                      attrs: {
-                        href:
-                          "https://record.nedsaffiliates.com.au/_qAEQiXVlKORDp78Ph1_jCGNd7ZgqdRLk/1/"
-                      }
-                    },
-                    [
-                      _c("img", {
-                        attrs: {
-                          src: __webpack_require__("./resources/assets/js/assets/06-28-Affilates-Banners-60-120-729x90.png"),
-                          alt: "Neds First Deposit $60 and get $120"
-                        }
-                      })
-                    ]
-                  )
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("tr", [
-              _c("td", { attrs: { align: "center" } }, [
-                _c("figure", { staticClass: "image" }, [
-                  _c(
-                    "a",
-                    {
-                      attrs: {
-                        href:
-                          "https://record.nedsaffiliates.com.au/_qAEQiXVlKOSwVhdeTu4fZWNd7ZgqdRLk/1/"
-                      }
-                    },
-                    [
-                      _c("img", {
-                        attrs: {
-                          src: __webpack_require__("./resources/assets/js/assets/06-28-Affilates-Banners-250-300-729x90.png"),
-                          alt: "Neds First Deposit $250 and get $300"
-                        }
-                      })
-                    ]
-                  )
-                ])
-              ])
-            ])
-          ])
+        _c("iframe", {
+          attrs: {
+            allowtransparency: "true",
+            src: "https://ads.betfair.com/ad.aspx?bid=10179&pid=3263524",
+            width: "728",
+            height: "90",
+            marginwidth: "0",
+            marginheight: "0",
+            hspace: "0",
+            vspace: "0",
+            frameborder: "0",
+            scrolling: "no"
+          }
+        }),
+        _vm._v(" "),
+        _c("figure", { staticClass: "image" }, [
+          _c(
+            "a",
+            {
+              attrs: {
+                href:
+                  "https://record.nedsaffiliates.com.au/_qAEQiXVlKOTulQmTAVK722Nd7ZgqdRLk/1/"
+              }
+            },
+            [
+              _c("img", {
+                attrs: {
+                  src: __webpack_require__("./resources/assets/js/assets/06-28-Affilates-Banners-FBM-729x90.png"),
+                  alt: "Neds First Bet Match up to $100"
+                }
+              })
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("figure", { staticClass: "image" }, [
+          _c(
+            "a",
+            {
+              attrs: {
+                href:
+                  "https://record.nedsaffiliates.com.au/_qAEQiXVlKORDp78Ph1_jCGNd7ZgqdRLk/1/"
+              }
+            },
+            [
+              _c("img", {
+                attrs: {
+                  src: __webpack_require__("./resources/assets/js/assets/06-28-Affilates-Banners-60-120-729x90.png"),
+                  alt: "Neds First Deposit $60 and get $120"
+                }
+              })
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("figure", { staticClass: "image" }, [
+          _c(
+            "a",
+            {
+              attrs: {
+                href:
+                  "https://record.nedsaffiliates.com.au/_qAEQiXVlKOSwVhdeTu4fZWNd7ZgqdRLk/1/"
+              }
+            },
+            [
+              _c("img", {
+                attrs: {
+                  src: __webpack_require__("./resources/assets/js/assets/06-28-Affilates-Banners-250-300-729x90.png"),
+                  alt: "Neds First Deposit $250 and get $300"
+                }
+              })
+            ]
+          )
         ])
       ])
     ])

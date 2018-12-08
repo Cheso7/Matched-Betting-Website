@@ -6,24 +6,14 @@
             
         <p class="title is-3 has-text-centered">Bonus Bets</p>
 
-        <table class="table is-fullwidth">
-          <thead>
-            <th> </th>
-          </thead>
 
-          <tbody class="has-text-centered">
-
-            <tr>
-              <td align="center">
               <iframe allowtransparency="true" 
                 src="https://ads.betfair.com/ad.aspx?bid=10179&pid=3263524" 
                 width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">
               </iframe>
-              </td>
-            </tr>
+
               
-            <tr>
-              <td align="center">
+
                 <figure class="image">
                   <a 
                   href="https://record.nedsaffiliates.com.au/_qAEQiXVlKOTulQmTAVK722Nd7ZgqdRLk/1/"
@@ -33,11 +23,8 @@
                   >
                  </a>
                 </figure>
-              </td>
-              </tr>
-              
-              <tr >
-                <td align="center">
+
+
                   <figure class="image">
                 <a 
                 href="https://record.nedsaffiliates.com.au/_qAEQiXVlKORDp78Ph1_jCGNd7ZgqdRLk/1/"
@@ -47,11 +34,9 @@
                 >
               </a>
                   </figure>
-              </td>
-            </tr>
+
             
-            <tr>
-              <td align="center">
+
                 <figure class="image">
                   <a 
                   href="https://record.nedsaffiliates.com.au/_qAEQiXVlKOSwVhdeTu4fZWNd7ZgqdRLk/1/"
@@ -61,11 +46,7 @@
                   >
                  </a>
                 </figure>
-              </td>
-            </tr>
 
-          </tbody>
-        </table>
     </div>
   </section>
 
