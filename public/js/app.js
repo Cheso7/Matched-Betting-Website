@@ -2266,6 +2266,12 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
+//
+//
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
@@ -2420,7 +2426,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", ""]);
+exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", ""]);
 
 // exports
 
@@ -34219,9 +34225,23 @@ var staticRenderFns = [
                 ]),
                 _vm._v(" "),
                 _c("figure", { staticClass: "image" }, [
-                  _c("img", {
-                    attrs: { src: __webpack_require__("./resources/assets/js/assets/BonusBet.png") }
-                  })
+                  _c(
+                    "a",
+                    {
+                      attrs: {
+                        href:
+                          "https://record.nedsaffiliates.com.au/_qAEQiXVlKOSwVhdeTu4fZWNd7ZgqdRLk/1/"
+                      }
+                    },
+                    [
+                      _c("img", {
+                        attrs: {
+                          src: __webpack_require__("./resources/assets/js/assets/06-28-Affilates-Banners-250-300-729x90.png"),
+                          alt: "Neds First Deposit $250 and get $300"
+                        }
+                      })
+                    ]
+                  )
                 ])
               ]),
               _vm._v(" "),
@@ -46173,13 +46193,6 @@ module.exports = "/images/Bet1Calc.png?2e9234a37061340c2424453821c88c84";
 /***/ (function(module, exports) {
 
 module.exports = "/images/Bet1Profit.png?175e62878e42e27795cbded9c0678a54";
-
-/***/ }),
-
-/***/ "./resources/assets/js/assets/BonusBet.png":
-/***/ (function(module, exports) {
-
-module.exports = "/images/BonusBet.png?71a4fe6370d6c3d2e0acdb0f63fe14c0";
 
 /***/ }),
 

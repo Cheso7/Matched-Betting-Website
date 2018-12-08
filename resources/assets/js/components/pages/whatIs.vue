@@ -55,7 +55,13 @@
         <blockquote><p><strong>Step 2:</strong> Sign up to a Bookmaker  and claim your Bonus Bet.
         </p> <p><u>Check out the Bonus Bets tab above for a list of websites currently offering Bonus Bets!</u></p>
         <figure class="image">
-        <img src="../../assets/BonusBet.png">
+        <a 
+        href="https://record.nedsaffiliates.com.au/_qAEQiXVlKOSwVhdeTu4fZWNd7ZgqdRLk/1/"
+        >
+        <img src="../../assets/06-28-Affilates-Banners-250-300-729x90.png" 
+        alt="Neds First Deposit $250 and get $300"
+        >
+        </a>
         </figure>
         </blockquote>    
 
