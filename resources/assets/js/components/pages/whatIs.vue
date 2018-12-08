@@ -46,16 +46,9 @@
         <blockquote><p><strong>Step 1:</strong> Sign up to Betfair using the link below. 
         </p>
           <iframe 
-            allowtransparency="true" 
-            src="http://ads.betfair.com/ad.aspx?bid=10229&pid=3263524" 
-            width="390" 
-            height="156" 
-            marginwidth="0" 
-            marginheight="0" 
-            hspace="0" 
-            vspace="0" 
-            frameborder="0" 
-            scrolling="no"
+          allowtransparency="true" 
+          src="https://ads.betfair.com/ad.aspx?bid=10172&pid=3263524" 
+          width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">
           ></iframe>
 
         </blockquote>

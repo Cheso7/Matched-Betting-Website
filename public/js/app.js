@@ -2266,13 +2266,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
 
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
@@ -2427,7 +2420,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 
 
 // module
-exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", ""]);
+exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", ""]);
 
 // exports
 
@@ -34188,20 +34181,25 @@ var staticRenderFns = [
                   )
                 ]),
                 _vm._v(" "),
-                _c("iframe", {
-                  attrs: {
-                    allowtransparency: "true",
-                    src: "http://ads.betfair.com/ad.aspx?bid=10229&pid=3263524",
-                    width: "390",
-                    height: "156",
-                    marginwidth: "0",
-                    marginheight: "0",
-                    hspace: "0",
-                    vspace: "0",
-                    frameborder: "0",
-                    scrolling: "no"
-                  }
-                })
+                _c(
+                  "iframe",
+                  {
+                    attrs: {
+                      allowtransparency: "true",
+                      src:
+                        "https://ads.betfair.com/ad.aspx?bid=10172&pid=3263524",
+                      width: "468",
+                      height: "60",
+                      marginwidth: "0",
+                      marginheight: "0",
+                      hspace: "0",
+                      vspace: "0",
+                      frameborder: "0",
+                      scrolling: "no"
+                    }
+                  },
+                  [_vm._v("\r\n          >")]
+                )
               ]),
               _vm._v(" "),
               _c("blockquote", [
@@ -34588,7 +34586,17 @@ var staticRenderFns = [
               _c("td", { attrs: { align: "center" } }, [
                 _c("iframe", {
                   attrs: {
-                    src: "https://ads.betfair.com/ad.aspx?bid=10174&pid=3263524"
+                    allowtransparency: "true",
+                    src:
+                      "https://ads.betfair.com/ad.aspx?bid=10179&pid=3263524",
+                    width: "728",
+                    height: "90",
+                    marginwidth: "0",
+                    marginheight: "0",
+                    hspace: "0",
+                    vspace: "0",
+                    frameborder: "0",
+                    scrolling: "no"
                   }
                 })
               ])
