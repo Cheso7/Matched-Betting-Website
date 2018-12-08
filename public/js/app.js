@@ -1914,6 +1914,14 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     data: function data() {
@@ -34585,6 +34593,23 @@ var staticRenderFns = [
         _vm._v("Bonus Bets")
       ]),
       _vm._v(" "),
+      _c(
+        "a",
+        {
+          attrs: {
+            href: "https://ads.betfair.com/ad.aspx?bid=10179&pid=3263524"
+          }
+        },
+        [
+          _c("img", {
+            attrs: {
+              src: __webpack_require__("./resources/assets/js/assets/betfair.png"),
+              alt: "Neds First Bet Match up to $100"
+            }
+          })
+        ]
+      ),
+      _vm._v(" "),
       _c("iframe", {
         attrs: {
           allowtransparency: "true",
@@ -46192,6 +46217,13 @@ module.exports = "/images/TurnoverBet.png?c3258afcb2b270f2b49da0ae9b22595d";
 /***/ (function(module, exports) {
 
 module.exports = "/images/TurnoverRequirement.png?cf2958cf7a66a3165b3fa97771678f93";
+
+/***/ }),
+
+/***/ "./resources/assets/js/assets/betfair.png":
+/***/ (function(module, exports) {
+
+module.exports = "/images/betfair.png?11b2acbee3615928a1c3f8a73a450899";
 
 /***/ }),
 

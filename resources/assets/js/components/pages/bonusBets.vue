@@ -4,6 +4,14 @@
 
         <p class="title is-3 has-text-centered">Bonus Bets</p>
 
+                  <a 
+                  href="https://ads.betfair.com/ad.aspx?bid=10179&pid=3263524"
+                  >
+                  <img src="../../assets/betfair.png" 
+                  alt="Neds First Bet Match up to $100"
+                  >
+                 </a>
+
 
               <iframe allowtransparency="true" 
                 src="https://ads.betfair.com/ad.aspx?bid=10179&pid=3263524" 
