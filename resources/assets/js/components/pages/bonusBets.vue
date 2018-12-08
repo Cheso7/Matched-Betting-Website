@@ -9,7 +9,7 @@
 
               <iframe allowtransparency="true" 
                 src="https://ads.betfair.com/ad.aspx?bid=10179&pid=3263524" 
-                width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="yes">
+                >
               </iframe>
 
               
