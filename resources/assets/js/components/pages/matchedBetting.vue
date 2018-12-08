@@ -140,7 +140,7 @@
 
       <section>
         <body>
-              <a class="button is-dark" @click="showResults()" >Tell me what to bet!</a>
+              <a class="button" @click="showResults()" >Calculate my bet</a>
         </body>
       </section>
       

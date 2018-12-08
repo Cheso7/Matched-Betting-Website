@@ -1911,6 +1911,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     data: function data() {
@@ -33593,14 +33594,14 @@ var render = function() {
               _c(
                 "a",
                 {
-                  staticClass: "button is-dark",
+                  staticClass: "button",
                   on: {
                     click: function($event) {
                       _vm.showResults()
                     }
                   }
                 },
-                [_vm._v("Tell me what to bet!")]
+                [_vm._v("Calculate my bet")]
               )
             ])
           ]),
@@ -34542,7 +34543,66 @@ if (false) {
 /***/ "./node_modules/vue-loader/lib/template-compiler/index.js?{\"id\":\"data-v-f0aeeb22\",\"hasScoped\":true,\"buble\":{\"transforms\":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./resources/assets/js/components/pages/bonusBets.vue":
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports={render:function(){},staticRenderFns:[]}
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("section", { staticClass: "container" }, [
+      _c("br"),
+      _vm._v(" "),
+      _c("div", { staticClass: "box" }, [
+        _c("p", { staticClass: "title is-3" }, [_vm._v("Bonus Bets")]),
+        _vm._v(" "),
+        _c("table", { staticClass: "table is-fullwidth " }, [
+          _c("thead", [_c("th")]),
+          _vm._v(" "),
+          _c("tbody", [
+            _c("tr", [
+              _c("td", [
+                _c("iframe", {
+                  attrs: {
+                    allowtransparency: "true",
+                    src: "http://ads.betfair.com/ad.aspx?bid=10229&pid=3263524",
+                    width: "390",
+                    height: "156",
+                    marginwidth: "0",
+                    marginheight: "0",
+                    hspace: "0",
+                    vspace: "0",
+                    frameborder: "0",
+                    scrolling: "no"
+                  }
+                })
+              ])
+            ]),
+            _vm._v(" "),
+            _c("tr", [
+              _c("td", [
+                _c("iframe", {
+                  attrs: {
+                    src:
+                      "https://js.nedsaffiliates.com.au/javascript.php?prefix=qAEQiXVlKOTulQmTAVK722Nd7ZgqdRLk&media=99&campaign=1"
+                  }
+                })
+              ])
+            ]),
+            _vm._v(" "),
+            _c("tr", [_c("td", [_c("strong", [_vm._v("Link 3")])])])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+module.exports = { render: render, staticRenderFns: staticRenderFns }
 if (false) {
   module.hot.accept()
   if (module.hot.data) {
