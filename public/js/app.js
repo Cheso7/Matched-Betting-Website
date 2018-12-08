@@ -34209,8 +34209,7 @@ var staticRenderFns = [
                         marginheight: "0",
                         hspace: "0",
                         vspace: "0",
-                        frameborder: "0",
-                        scrolling: "no"
+                        frameborder: "0"
                       }
                     },
                     [_vm._v("\r\n          >")]
