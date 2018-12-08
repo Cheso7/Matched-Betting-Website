@@ -2,10 +2,10 @@
     <section >
 
 <!-- Title bar -->        
-    <section class="hero is-info is-medium is-bold">
+    <section class="hero is-danger is-medium is-bold">
       <div class="hero-body">
-        <div class="container">
-          <h1 class="title">Advanced Matching Betting</h1>
+        <div class="container has-text-centered">
+          <h1 class="title">Advanced Matched Betting</h1>
           <h2 class="subtitle">The best Matched Betting Calculator to make <strong>guaranteed</strong> profit every time</h2>
         </div>
       </div>   

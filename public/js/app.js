@@ -33492,7 +33492,7 @@ var render = function() {
           _c("section", { staticClass: "container" }, [
             _c("div", { staticClass: "box" }, [
               _c("h1", { staticClass: "title has-text-left" }, [
-                _vm._v("Betting Exchange")
+                _vm._v("Betfair")
               ]),
               _vm._v(" "),
               _c("div", { staticClass: "columns" }, [
@@ -33589,21 +33589,19 @@ var render = function() {
             _c("br")
           ]),
           _vm._v(" "),
-          _c("section", [
-            _c("body", [
-              _c(
-                "a",
-                {
-                  staticClass: "button",
-                  on: {
-                    click: function($event) {
-                      _vm.showResults()
-                    }
+          _c("div", { staticClass: "box has-text-centered is-shadowless" }, [
+            _c(
+              "a",
+              {
+                staticClass: "button is-medium is-danger",
+                on: {
+                  click: function($event) {
+                    _vm.showResults()
                   }
-                },
-                [_vm._v("Calculate my bet")]
-              )
-            ])
+                }
+              },
+              [_vm._v("Calculate my bet")]
+            )
           ]),
           _vm._v(" "),
           _c("br")
@@ -34070,7 +34068,7 @@ var staticRenderFns = [
               _vm._v(" "),
               _c("p", [
                 _vm._v(
-                  "In just over two weeks of using this technique in my spare time I was able to profit over $700. I never lost any money during this time, and at no point was I actually at risk of doing so.\r\n        "
+                  "In just under two weeks of using this technique in my spare time I was able to profit over $700. I never lost any money during this time, and at no point was I actually at risk of doing so.\r\n        "
                 )
               ]),
               _vm._v(" "),
@@ -34167,7 +34165,9 @@ var staticRenderFns = [
               _c("blockquote", [
                 _c("p", [
                   _c("strong", [_vm._v("Step 1:")]),
-                  _vm._v(" Sign up to a Betting Exchange. \r\n        ")
+                  _vm._v(
+                    " Sign up to Betfair using the link below. \r\n        "
+                  )
                 ]),
                 _vm._v(" "),
                 _c("iframe", {
@@ -34218,7 +34218,10 @@ var staticRenderFns = [
                 _c(
                   "a",
                   {
-                    attrs: { href: "https://www.freebets4all.com/AutoMatcher" }
+                    attrs: {
+                      href: "https://www.freebets4all.com/AutoMatcher",
+                      target: "_blank"
+                    }
                   },
                   [_vm._v("AutoMatcher")]
                 ),
@@ -34353,13 +34356,10 @@ var staticRenderFns = [
               ]),
               _vm._v(" "),
               _c("blockquote", [
-                _c("p"),
-                _c("h1", [
-                  _vm._v(
-                    "Step 8: Repeat this for all of the Bonus Bets listed above and maximise your profit!"
-                  )
-                ]),
-                _c("p")
+                _c("p", [
+                  _c("strong", [_vm._v("Step 8:")]),
+                  _vm._v(" Repeat for as many sign up bonuses as you can find!")
+                ])
               ])
             ])
           ])
@@ -34387,7 +34387,7 @@ var render = function() {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c("section", [
-    _c("section", { staticClass: "hero is-info is-medium is-bold" }, [
+    _c("section", { staticClass: "hero is-danger is-medium is-bold" }, [
       _vm._m(0),
       _vm._v(" "),
       _c("div", { staticClass: "hero-foot" }, [
@@ -34499,9 +34499,9 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "hero-body" }, [
-      _c("div", { staticClass: "container" }, [
+      _c("div", { staticClass: "container has-text-centered" }, [
         _c("h1", { staticClass: "title" }, [
-          _vm._v("Advanced Matching Betting")
+          _vm._v("Advanced Matched Betting")
         ]),
         _vm._v(" "),
         _c("h2", { staticClass: "subtitle" }, [

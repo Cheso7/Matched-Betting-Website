@@ -13,7 +13,7 @@
         you would be hesitant to believe me. That's part of the reason why I made this website, to prove to them and anyone else who is curious that it's possible and quite easy to do.
         </p>
 
-        <p>In just over two weeks of using this technique in my spare time I was able to profit over $700. I never lost any money during this time, and at no point was I actually at risk of doing so.
+        <p>In just under two weeks of using this technique in my spare time I was able to profit over $700. I never lost any money during this time, and at no point was I actually at risk of doing so.
         </p>
 
         <p>Now I wouldn't just expect you to take my word for it, so let me run you through the process and you can see for yourself that it truly is risk free.
@@ -43,9 +43,8 @@
         <h2>Example</h2>       
         <p>I will now run you through an example, using the calculator I have built into this website. This calculator ensures you get the same profit from either outcome, and that any turnover requirements are met to make sure you can withdraw your money.</p>
         
-        <blockquote><p><strong>Step 1:</strong> Sign up to a Betting Exchange. 
+        <blockquote><p><strong>Step 1:</strong> Sign up to Betfair using the link below. 
         </p>
-    
           <iframe 
             allowtransparency="true" 
             src="http://ads.betfair.com/ad.aspx?bid=10229&pid=3263524" 
@@ -58,6 +57,7 @@
             frameborder="0" 
             scrolling="no"
           ></iframe>
+
         </blockquote>
         <blockquote><p><strong>Step 2:</strong> Sign up to a Bookmaker  and claim your Bonus Bet.
         </p> <p><u>Check out the Bonus Bets tab above for a list of websites currently offering Bonus Bets!</u></p>
@@ -68,7 +68,7 @@
 
 
         <blockquote><p><strong>Step 3:</strong> Find your bet!
-        </p> You can use <a href="https://www.freebets4all.com/AutoMatcher">AutoMatcher</a> to find the optimal bet that will return a higher percent of your Bonus Bet. Just change the "Optimise for Bet Type..." dropdown to SNR Free Bet Profit. The SNR (%) represents the percentage of your bonus bet you can win back.
+        </p> You can use <a href="https://www.freebets4all.com/AutoMatcher" target="_blank">AutoMatcher</a> to find the optimal bet that will return a higher percent of your Bonus Bet. Just change the "Optimise for Bet Type..." dropdown to SNR Free Bet Profit. The SNR (%) represents the percentage of your bonus bet you can win back.
         <figure class="image">
         <img src="../../assets/OddsMatcher.png">
         </figure>
@@ -122,10 +122,10 @@
 
         </blockquote>         
 
-        <blockquote><p><h1>Step 8: Repeat this for all of the Bonus Bets listed above and maximise your profit!</h1></p>
+        <blockquote><p><strong>Step 8:</strong> Repeat for as many sign up bonuses as you can find!</p>
 
         </blockquote>     
-
+ 
         </div>
         </div>
         </div>

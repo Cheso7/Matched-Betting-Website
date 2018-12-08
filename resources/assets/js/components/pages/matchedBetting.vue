@@ -108,7 +108,7 @@
       <section class="container">
         <div class="box">
 
-      <h1 class="title has-text-left">Betting Exchange</h1>
+      <h1 class="title has-text-left">Betfair</h1>
 
       <div class="columns">
         <div class="column">
@@ -138,11 +138,11 @@
 
       </section>
 
-      <section>
-        <body>
-              <a class="button" @click="showResults()" >Calculate my bet</a>
-        </body>
-      </section>
+      <div class="box has-text-centered is-shadowless">
+
+              <a class="button is-medium is-danger" @click="showResults()" >Calculate my bet</a>
+ 
+      </div>
       
         <br />
 
