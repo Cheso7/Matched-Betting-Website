@@ -1912,6 +1912,24 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     data: function data() {
@@ -34127,7 +34145,7 @@ var staticRenderFns = [
                 _vm._v(
                   " To 'lay' a selection in a market is to place a bet for something NOT to happen, or in other words, bet against something happening. This is done on a "
                 ),
-                _c("u", [_vm._v("Betting Exchange.S")]),
+                _c("u", [_vm._v("Betfair.")]),
                 _vm._v(
                   "  If your Lay Bet is successful, you always get twice your money back as this is the money that someone else has bet on a Win. If you lose a Lay Bet you pay your Liability."
                 )
@@ -34558,43 +34576,89 @@ var staticRenderFns = [
       _c("br"),
       _vm._v(" "),
       _c("div", { staticClass: "box" }, [
-        _c("p", { staticClass: "title is-3" }, [_vm._v("Bonus Bets")]),
+        _c("p", { staticClass: "title is-3 has-text-centered" }, [
+          _vm._v("Bonus Bets")
+        ]),
         _vm._v(" "),
-        _c("table", { staticClass: "table is-fullwidth " }, [
+        _c("table", { staticClass: "table is-fullwidth" }, [
           _c("thead", [_c("th")]),
           _vm._v(" "),
-          _c("tbody", [
+          _c("tbody", { staticClass: "has-text-centered" }, [
             _c("tr", [
-              _c("td", [
+              _c("td", { attrs: { align: "center" } }, [
                 _c("iframe", {
                   attrs: {
-                    allowtransparency: "true",
-                    src: "http://ads.betfair.com/ad.aspx?bid=10229&pid=3263524",
-                    width: "390",
-                    height: "156",
-                    marginwidth: "0",
-                    marginheight: "0",
-                    hspace: "0",
-                    vspace: "0",
-                    frameborder: "0",
-                    scrolling: "no"
+                    src: "http://ads.betfair.com/ad.aspx?bid=10174&pid=3263524"
                   }
                 })
               ])
             ]),
             _vm._v(" "),
             _c("tr", [
-              _c("td", [
-                _c("iframe", {
-                  attrs: {
-                    src:
-                      "https://js.nedsaffiliates.com.au/javascript.php?prefix=qAEQiXVlKOTulQmTAVK722Nd7ZgqdRLk&media=99&campaign=1"
-                  }
-                })
+              _c("td", { attrs: { align: "center" } }, [
+                _c(
+                  "a",
+                  {
+                    attrs: {
+                      href:
+                        "https://record.nedsaffiliates.com.au/_qAEQiXVlKOTulQmTAVK722Nd7ZgqdRLk/1/"
+                    }
+                  },
+                  [
+                    _c("img", {
+                      attrs: {
+                        src: __webpack_require__("./resources/assets/js/assets/06-28-Affilates-Banners-FBM-729x90.png"),
+                        alt: "Neds First Bet Match up to $100"
+                      }
+                    })
+                  ]
+                )
               ])
             ]),
             _vm._v(" "),
-            _c("tr", [_c("td", [_c("strong", [_vm._v("Link 3")])])])
+            _c("tr", [
+              _c("td", { attrs: { align: "center" } }, [
+                _c(
+                  "a",
+                  {
+                    attrs: {
+                      href:
+                        "https://record.nedsaffiliates.com.au/_qAEQiXVlKORDp78Ph1_jCGNd7ZgqdRLk/1/"
+                    }
+                  },
+                  [
+                    _c("img", {
+                      attrs: {
+                        src: __webpack_require__("./resources/assets/js/assets/06-28-Affilates-Banners-60-120-729x90.png"),
+                        alt: "Neds First Deposit $60 and get $120"
+                      }
+                    })
+                  ]
+                )
+              ])
+            ]),
+            _vm._v(" "),
+            _c("tr", [
+              _c("td", { attrs: { align: "center" } }, [
+                _c(
+                  "a",
+                  {
+                    attrs: {
+                      href:
+                        "https://record.nedsaffiliates.com.au/_qAEQiXVlKOSwVhdeTu4fZWNd7ZgqdRLk/1/"
+                    }
+                  },
+                  [
+                    _c("img", {
+                      attrs: {
+                        src: __webpack_require__("./resources/assets/js/assets/06-28-Affilates-Banners-250-300-729x90.png"),
+                        alt: "Neds First Deposit $250 and get $300"
+                      }
+                    })
+                  ]
+                )
+              ])
+            ])
           ])
         ])
       ])
@@ -46059,6 +46123,27 @@ Vue.component('starting-component', __webpack_require__("./resources/assets/js/c
 var app = new Vue({
   el: '#app'
 });
+
+/***/ }),
+
+/***/ "./resources/assets/js/assets/06-28-Affilates-Banners-250-300-729x90.png":
+/***/ (function(module, exports) {
+
+module.exports = "/images/06-28-Affilates-Banners-250-300-729x90.png?a2e239ed4aeb1e5eaba05891ac7adafa";
+
+/***/ }),
+
+/***/ "./resources/assets/js/assets/06-28-Affilates-Banners-60-120-729x90.png":
+/***/ (function(module, exports) {
+
+module.exports = "/images/06-28-Affilates-Banners-60-120-729x90.png?8dddfb05211c3661ae7873a4f6c6e2db";
+
+/***/ }),
+
+/***/ "./resources/assets/js/assets/06-28-Affilates-Banners-FBM-729x90.png":
+/***/ (function(module, exports) {
+
+module.exports = "/images/06-28-Affilates-Banners-FBM-729x90.png?d417861e15ef99980f2c48d894fceed8";
 
 /***/ }),
 

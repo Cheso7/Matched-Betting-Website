@@ -4,42 +4,60 @@
       <br>
         <div class="box">
             
-        <p class="title is-3">Bonus Bets</p>
+        <p class="title is-3 has-text-centered">Bonus Bets</p>
 
-        <table class="table is-fullwidth ">
+        <table class="table is-fullwidth">
           <thead>
             <th> </th>
           </thead>
 
-          <tbody>
-            <tr >
-              <td>
-                <iframe 
-                  allowtransparency="true" 
-                  src="http://ads.betfair.com/ad.aspx?bid=10229&pid=3263524" 
-                  width="390" 
-                  height="156" 
-                  marginwidth="0" 
-                  marginheight="0" 
-                  hspace="0" 
-                  vspace="0" 
-                  frameborder="0" 
-                  scrolling="no"
-                ></iframe>
+          <tbody class="has-text-centered">
+
+            <tr>
+              <td align="center">
+              <iframe 
+              src="http://ads.betfair.com/ad.aspx?bid=10174&pid=3263524" 
+              >
+              </iframe>
+              </td>
+            </tr>
+              
+            <tr>
+              <td align="center">
+                  <a 
+                  href="https://record.nedsaffiliates.com.au/_qAEQiXVlKOTulQmTAVK722Nd7ZgqdRLk/1/"
+                  >
+                  <img src="../../assets/06-28-Affilates-Banners-FBM-729x90.png" 
+                  alt="Neds First Bet Match up to $100"
+                  >
+                 </a>
+              </td>
+              </tr>
+              
+              <tr >
+                <td align="center">
+                <a 
+                href="https://record.nedsaffiliates.com.au/_qAEQiXVlKORDp78Ph1_jCGNd7ZgqdRLk/1/"
+                >
+                <img src="../../assets/06-28-Affilates-Banners-60-120-729x90.png" 
+                alt="Neds First Deposit $60 and get $120"
+                >
+              </a>
+              </td>
+            </tr>
+            
+            <tr>
+              <td align="center">
+                  <a 
+                  href="https://record.nedsaffiliates.com.au/_qAEQiXVlKOSwVhdeTu4fZWNd7ZgqdRLk/1/"
+                  >
+                  <img src="../../assets/06-28-Affilates-Banners-250-300-729x90.png" 
+                  alt="Neds First Deposit $250 and get $300"
+                  >
+                 </a>
               </td>
             </tr>
 
-            <tr>
-              <td>
-                <iframe
-                src="https://js.nedsaffiliates.com.au/javascript.php?prefix=qAEQiXVlKOTulQmTAVK722Nd7ZgqdRLk&amp;media=99&amp;campaign=1"
-                ></iframe>
-              </td>
-            </tr>
-
-            <tr>
-              <td><strong>Link 3</strong></td>
-            </tr>    
           </tbody>
         </table>
     </div>
