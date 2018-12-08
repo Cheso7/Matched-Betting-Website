@@ -1,24 +1,15 @@
 <template>
-
   <section class="container">
       <br>
-  <div class="container">
+
         <p class="title is-3 has-text-centered">Bonus Bets</p>
 
-              <a 
-              href="https://ads.betfair.com/ad.aspx?bid=10179&pid=3263524"
-              >
-              <img src="../../assets/betfair.png" 
-              alt="betfair"
-              >
-              </a>
 
               <iframe allowtransparency="true" 
                 src="https://ads.betfair.com/ad.aspx?bid=10179&pid=3263524" 
                 width="100%" height="100%" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">
               </iframe>
 <br>
-
 
               
 <br>
@@ -52,7 +43,7 @@
                   >
                  </a>
 
-</div>
+
 
   </section>
 
