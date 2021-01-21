@@ -24,7 +24,7 @@
          <p>The concept of Matched Betting is quite simple. You bet for an outcome to happen on a Bookmaker Site (e.g. for Real Madrid win a soccer game), while on a Betting Exchange you bet against the same outcome (e.g. you bet that Real Madrid will <u>not</u> win)
          </p>
          
-         <p>This means whate ever the outcome, one of your bets is going to win. Now the way the odds are setup, you still won't make a profit from doing this with your own money (that would be too easy right?). This technique only works when the bet one of the bets is a <strong>Bonus Bet</strong>. These are easily obtained by signing up to a Bookmaker and meeting their deposit criteria.
+         <p>This means no matter the outcome, one of your bets is going to win. Now the way the odds are setup, you still won't make a profit from doing this with your own money (that would be too easy right?). This technique only works when the bet one of the bets is a <strong>Bonus Bet</strong>. These are easily obtained by signing up to a Bookmaker and meeting their deposit criteria.
          </p>
          
           

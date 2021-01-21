@@ -1,6 +1,5 @@
 <template>
     <section >
-        <meta name="google-site-verification" content="Yu-MIpKVyptXHEN8zZ0xwv3kRj91x2vLYk7l3Qn8s6Y" />
 
 <!-- Title bar -->        
     <section class="hero is-danger is-medium is-bold">

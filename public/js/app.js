@@ -2352,7 +2352,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
-//
 
 
 
@@ -34106,7 +34105,7 @@ var staticRenderFns = [
               _vm._v(" "),
               _c("p", [
                 _vm._v(
-                  "This means whate ever the outcome, one of your bets is going to win. Now the way the odds are setup, you still won't make a profit from doing this with your own money (that would be too easy right?). This technique only works when the bet one of the bets is a "
+                  "This means no matter the outcome, one of your bets is going to win. Now the way the odds are setup, you still won't make a profit from doing this with your own money (that would be too easy right?). This technique only works when the bet one of the bets is a "
                 ),
                 _c("strong", [_vm._v("Bonus Bet")]),
                 _vm._v(
@@ -34422,13 +34421,6 @@ var render = function() {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c("section", [
-    _c("meta", {
-      attrs: {
-        name: "google-site-verification",
-        content: "Yu-MIpKVyptXHEN8zZ0xwv3kRj91x2vLYk7l3Qn8s6Y"
-      }
-    }),
-    _vm._v(" "),
     _c("section", { staticClass: "hero is-danger is-medium is-bold" }, [
       _vm._m(0),
       _vm._v(" "),
